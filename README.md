@@ -11,8 +11,8 @@ I am a passionate **Fullstack Developer** with experience in building scalable a
 I'm open to collaborating on interesting projects. 
 
 ### 📫 How to Reach Me  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/izzatullokanoatov/)  
-- Email: [Your Email](kanoatovizzatullo@gmail.com)  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/izzatullokanoatov/)  
+- Email: [Email](kanoatovizzatullo@gmail.com)  
 - Telegram: [izzatullokanoatov](https://t.me/izzatullokanoatov)  
 
 ⚡ **Fun Fact:** I enjoy optimizing team efforts via automating workflows! 
