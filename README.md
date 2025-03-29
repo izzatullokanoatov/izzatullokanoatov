@@ -1,16 +1,18 @@
-### Hi there 👋, I am Izzatullo Kanoatov 
+### Hi there 👋, I'm Izzatullo Kanoatov  
 
-<!--
-**izzatullokanoatov/izzatullokanoatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Fullstack Developer** with experience in building scalable and efficient applications using modern web technologies.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack  
+- **Backend:** Node.js, NestJS  
+- **Frontend:** Vue 3, Angular 18  
+- **Databases:** PostgreSQL, MongoDB  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Let's Collaborate  
+I'm open to collaborating on interesting projects. 
+
+### 📫 How to Reach Me  
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/izzatullokanoatov/)  
+- Email: [Your Email](kanoatovizzatullo@gmail.com)  
+- Telegram: [izzatullokanoatov](https://t.me/izzatullokanoatov)  
+
+⚡ **Fun Fact:** I enjoy optimizing team efforts via automating workflows! 
