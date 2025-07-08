@@ -1,18 +1,28 @@
-### Hi there 👋, I'm Izzatullo Kanoatov  
+### Hi there 👋, I'm Izzatullo Kanoatov
 
-I am a passionate **Fullstack Developer** with experience in building scalable and efficient applications using modern web technologies.
+I'm a **Senior Fullstack Engineer & Technical Lead** with over 5 years of hands-on experience architecting and developing high-performance, scalable web applications. I specialize in designing clean, maintainable codebases and leading cross-functional teams to successful project delivery.
+
+---
 
 ### 🛠 Tech Stack  
+- **Languages:** TypeScript, JavaScript  
+- **Frontend:** Vue 3, Vuex, React.js, Angular 18, Nuxt, TailwindCSS, Vuetify  
 - **Backend:** Node.js, NestJS  
-- **Frontend:** Vue 3, Angular 18  
-- **Databases:** PostgreSQL, MongoDB  
+- **Databases:** PostgreSQL, MongoDB, Redis  
+- **Testing:** Vitest, Jest, Vue Test Utils  
+- **DevOps:** Docker, Jenkins, GitHub Actions  
+- **Others:** GraphQL, REST APIs, Knex.js, Sonarqube
 
-### 🤝 Let's Collaborate  
-I'm open to collaborating on interesting projects. 
+---
 
-### 📫 How to Reach Me  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/izzatullokanoatov/)  
-- Email: [Email](kanoatovizzatullo@gmail.com)  
-- Telegram: [izzatullokanoatov](https://t.me/izzatullokanoatov)  
+### 🧠 Fun Facts  
+- 🧩 Solved 500+ problems on [LeetCode](https://leetcode.com/izzatullokanoatov/)  
+- 👨‍🏫 Passionate about mentoring and reviewing clean code  
+- 🎿 I love skiing and competitive gaming during my downtime
 
-⚡ **Fun Fact:** I enjoy optimizing team efforts via automating workflows! 
+---
+
+### 📫 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/izzatullokanoatov/)  
+- 📧 [kanoatovizzatullo@gmail.com](mailto:kanoatovizzatullo@gmail.com)  
+- 💬 [Telegram](https://t.me/izzatullokanoatov)  
